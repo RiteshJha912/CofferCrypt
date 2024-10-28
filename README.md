@@ -40,7 +40,7 @@ Run the tool:
 coffercrypt
 ```
 Follow the prompts:    
-Enter the filename you wish to encrypt or decrypt.
-Choose between encryption (e) and decryption (d).
-Enter the password when prompted to set the encryption shift.
+Enter the filename you wish to encrypt or decrypt.    
+Choose between encryption (e) and decryption (d).    
+Enter the password when prompted to set the encryption shift.     
 
