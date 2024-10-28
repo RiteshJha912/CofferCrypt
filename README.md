@@ -27,7 +27,7 @@ CofferCrypt is a simple and effective tool for encrypting and decrypting text fi
    
 2. **Navigate to the Project Directory:**
    ```
-   git clone https://github.com/RiteshJha912/CofferCrypt.git
+   cd CofferCrypt
    
 3. **Navigate to the Project Directory:**
    ```
