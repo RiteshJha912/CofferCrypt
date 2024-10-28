@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.o
+*.exe
+*.out
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
