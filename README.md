@@ -18,7 +18,6 @@ CofferCrypt is a simple and effective tool for encrypting and decrypting text fi
 ### Prerequisites
 
 - A C++ compiler (e.g., `g++`)
-- CMake (optional, for more complex projects)
 
 ### Steps
 
@@ -33,14 +32,13 @@ CofferCrypt is a simple and effective tool for encrypting and decrypting text fi
 3. **Navigate to the Project Directory:**
    ```
    g++ main.cpp encryption.cpp -o coffercrypt
-
-
  
 # Usage
 Run the tool:
 
-`coffercrypt`
-
+```
+coffercrypt
+```
 Follow the prompts:    
 Enter the filename you wish to encrypt or decrypt.
 Choose between encryption (e) and decryption (d).
